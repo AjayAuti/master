@@ -24,8 +24,7 @@ public class Calculator {
 	public void multiply() {
 		z = x*y ;
 	}
-	public void division() {
-		z = x/y ;
+	
 	}
 	public void display() {
 		System.out.println("Answer: "+z);
